@@ -4,7 +4,7 @@ I2C IR Remote Controller Using the Arduino Uno R3 or ATMega328P
 
 ### The I2C Remote Controller Hybrid
 
-![i2c-irremotecontroller-image](./docs/Hybrid.jpg)
+![i2c-irremotecontroller-image](./docs/Hybrid.png)
 
 ### Full circuit diagram
 
