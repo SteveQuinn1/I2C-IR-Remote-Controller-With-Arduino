@@ -29,4 +29,4 @@ By Steve Quinn
 
 Written to support the following Instructable;
 
-TBA
+https://www.instructables.com/id/I2C-InfraRed-Remote-Control-With-the-Arduino
